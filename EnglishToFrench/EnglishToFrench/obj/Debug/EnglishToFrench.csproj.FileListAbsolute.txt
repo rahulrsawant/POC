@@ -1,0 +1,8 @@
+C:\Users\rahul\source\repos\Persistent\EnglishToFrench\EnglishToFrench\bin\Debug\EnglishToFrench.exe.config
+C:\Users\rahul\source\repos\Persistent\EnglishToFrench\EnglishToFrench\bin\Debug\EnglishToFrench.exe
+C:\Users\rahul\source\repos\Persistent\EnglishToFrench\EnglishToFrench\bin\Debug\EnglishToFrench.pdb
+C:\Users\rahul\source\repos\Persistent\EnglishToFrench\EnglishToFrench\obj\Debug\EnglishToFrench.csproj.AssemblyReference.cache
+C:\Users\rahul\source\repos\Persistent\EnglishToFrench\EnglishToFrench\obj\Debug\EnglishToFrench.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahul\source\repos\Persistent\EnglishToFrench\EnglishToFrench\obj\Debug\EnglishToFrench.csproj.CoreCompileInputs.cache
+C:\Users\rahul\source\repos\Persistent\EnglishToFrench\EnglishToFrench\obj\Debug\EnglishToFrench.exe
+C:\Users\rahul\source\repos\Persistent\EnglishToFrench\EnglishToFrench\obj\Debug\EnglishToFrench.pdb
